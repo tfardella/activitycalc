@@ -1,0 +1,10 @@
+#nut_item_list {
+	position: relative;
+	height: 680;
+	width: 390px;
+	overflow-x: hidden;
+}
+
+#nut_item_list table {
+	border-width: 1px 1px 0px 0px;
+}
